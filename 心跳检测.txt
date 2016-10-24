@@ -1,0 +1,1 @@
+将hyperic-sigar-1.6.4.zip中的hyperic-sigar-1.6.4\sigar-bin\lib下的文件，根据自身的操作系统选择相应的文件拷贝到JAVA_HOME/bin目录下
